@@ -48,6 +48,19 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/161262061?s=96&v=4" width="100px;" alt="Foto do JonasBelarmino no GitHub"/><br>
+        <sub>
+          <b>Jonas Belarmino</b>
+        </sub>
+      </a>
+    </td>
+=======
+=======
      <td align="center">
       <a href="https://github.com/LVMdS" title="LVMdS GitHub">
         <img src="https://avatars.githubusercontent.com/u/87584069?v=4" width="100px;" alt="Foto do Leonardo Vinicius no GitHub"/><br>
@@ -65,6 +78,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+>>>>>>> 0a2d414bdc847248fe5afd29edc1987ed30951bb
 
    <td align="center">
       <a href="#" title="defina o titulo do link"> 
@@ -75,6 +89,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     
+>>>>>>> 955bd7dd949de6a257167b488c513bdee36190dd
   </tr>
 </table>
 <br/>
