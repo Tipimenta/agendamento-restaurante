@@ -48,6 +48,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/LVMdS" title="LVMdS GitHub">
+        <img src="https://avatars.githubusercontent.com/u/87584069?v=4" width="100px;" alt="Foto do Leonardo Vinicius no GitHub"/><br>
+        <sub>
+          <b>Leonardo Vinicius</b>
+        </sub>
+      </a>
+    </td>
 
  <td align="center">
       <a href="#" title="defina o titulo do link">
@@ -69,7 +77,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     
   </tr>
 </table>
-<br>
+<br/>
 
 
 ## 😄 Seja um dos contribuidores
