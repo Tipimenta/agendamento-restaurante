@@ -48,6 +48,16 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+
+   <td align="center">
+      <a href="#" title="defina o titulo do link"> 
+        <img src="https://avatars.githubusercontent.com/u/129236989?v=4" width="100px;" alt="Foto do Tiago Pimenta no GitHub"/><br>
+        <sub>
+          <b>Diego Abner</b>
+        </sub>
+      </a>
+    </td>
+    
   </tr>
 </table>
 <br>
