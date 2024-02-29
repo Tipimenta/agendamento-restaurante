@@ -48,6 +48,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/161262061?s=96&v=4" width="100px;" alt="Foto do JonasBelarmino no GitHub"/><br>
+        <sub>
+          <b>Jonas Belarmino</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 <br>
