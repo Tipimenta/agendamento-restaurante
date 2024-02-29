@@ -59,12 +59,43 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
           <b>Leonardo Delgado Rodrigues</b>
         </sub>
       </a>
+    </td> 
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/161262061?s=96&v=4" width="100px;" alt="Foto do JonasBelarmino no GitHub"/><br>
+        <sub>
+          <b>Jonas Belarmino</b>
+        </sub>
+      </a>
     </td>
-  
+     <td align="center">
+      <a href="https://github.com/LVMdS" title="LVMdS GitHub">
+        <img src="https://avatars.githubusercontent.com/u/87584069?v=4" width="100px;" alt="Foto do Leonardo Vinicius no GitHub"/><br>
+        <sub>
+          <b>Leonardo Vinicius</b>
+        </sub>
+      </a>
+    </td>
+ <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/karlagregorio" width="100px;" alt="Foto do Karla Rodrigues no GitHub"/><br>
+        <sub>
+          <b>Karla Rodrigues</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="#" title="defina o titulo do link"> 
+        <img src="https://avatars.githubusercontent.com/u/129236989?v=4" width="100px;" alt="Foto do Tiago Pimenta no GitHub"/><br>
+        <sub>
+          <b>Diego Abner</b>
+        </sub>
+      </a>
+    </td>
+    
   </tr>
 </table>
 <br>
-
 
 
 ## 😄 Seja um dos contribuidores
