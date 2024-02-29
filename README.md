@@ -9,7 +9,7 @@
 
 ## :pushpin: Tecnologias utilizadas
 - **HTML**
-- **CSSS**
+- **CSS**
 - **JAVASCRIPT**
 <br>
 
