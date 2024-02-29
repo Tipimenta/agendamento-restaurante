@@ -7,6 +7,9 @@
 :construction: <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> :construction:
 </p>
 
+## 🖥 Como usar
+Ao abrir o programa, será solcitado o login (usuário e senha), escolha a data da reserva horário, tela 3 será solicitado local e mesa, confirma e aparecerá a confirmação.
+
 ## :pushpin: Tecnologias utilizadas
 - **HTML**
 - **CSS**
@@ -47,10 +50,21 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
           <b>Tiago Pimenta</b>
         </sub>
       </a>
+    </td>  
+    <td>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/97202237?s=96&v=4" width="100px;" alt="Foto do Leonardo Delgado Rodrigues no GitHub"/><br>
+        <sub>
+          <b>Leonardo Delgado Rodrigues</b>
+        </sub>
+      </a>
     </td>
+  
   </tr>
 </table>
 <br>
+
 
 
 ## 😄 Seja um dos contribuidores
@@ -58,6 +72,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 <br>
 <br>
+
+#### Colaboradores
+Leonardo Delgado Rodrigues
+
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
