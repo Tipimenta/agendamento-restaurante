@@ -57,6 +57,15 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
 
+ <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://github.com/karlagregorio" width="100px;" alt="Foto do Karla Rodrigues no GitHub"/><br>
+        <sub>
+          <b>Karla Rodrigues</b>
+        </sub>
+      </a>
+    </td>
+
    <td align="center">
       <a href="#" title="defina o titulo do link"> 
         <img src="https://avatars.githubusercontent.com/u/129236989?v=4" width="100px;" alt="Foto do Tiago Pimenta no GitHub"/><br>
