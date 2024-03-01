@@ -92,6 +92,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/156368206?v=4" width="100px;" alt="SilviaNeves"/><br>
+        <sub>
+          <b>Silvia Neves</b>
+        </sub>
+      </a>
+    </td>
     
   </tr>
 </table>
