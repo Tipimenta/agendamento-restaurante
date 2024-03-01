@@ -45,7 +45,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/104909118?v=4" width="100px height="100";" alt="Foto do Tiago Pimenta no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/104909118?v=4" width="100px height="100px";" alt="Foto do Tiago Pimenta no GitHub"/><br>
         <sub>
           <b>Tiago Pimenta</b>
         </sub>
@@ -54,7 +54,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     <td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/97202237?s=96&v=4" width="100px height="100";" alt="Foto do Leonardo Delgado Rodrigues no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/97202237?s=96&v=4" width="100px height="100px";" alt="Foto do Leonardo Delgado Rodrigues no GitHub"/><br>
         <sub>
           <b>Leonardo Delgado Rodrigues</b>
         </sub>
@@ -62,7 +62,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td> 
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/161262061?s=96&v=4" width="100px height="100";" alt="Foto do JonasBelarmino no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/161262061?s=96&v=4" width="100px height="100px";" alt="Foto do JonasBelarmino no GitHub"/><br>
         <sub>
           <b>Jonas Belarmino</b>
         </sub>
@@ -70,7 +70,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
      <td align="center">
       <a href="https://github.com/LVMdS" title="LVMdS GitHub">
-        <img src="https://avatars.githubusercontent.com/u/87584069?v=4" width="100px height="100";" alt="Foto do Leonardo Vinicius no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/87584069?v=4" width="100px height="100px";" alt="Foto do Leonardo Vinicius no GitHub"/><br>
         <sub>
           <b>Leonardo Vinicius</b>
         </sub>
@@ -78,7 +78,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
  <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://github.com/karlagregorio" width="100px height="100";" alt="Foto do Karla Rodrigues no GitHub"/><br>
+        <img src="https://github.com/karlagregorio" width="100px height="100px";" alt="Foto do Karla Rodrigues no GitHub"/><br>
         <sub>
           <b>Karla Rodrigues</b>
         </sub>
@@ -86,7 +86,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
    <td align="center">
       <a href="#" title="defina o titulo do link"> 
-        <img src="https://avatars.githubusercontent.com/u/129236989?v=4" width="100px height="100";" alt="Foto do Tiago Pimenta no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/129236989?v=4" width="100px height="100px";" alt="Foto do Tiago Pimenta no GitHub"/><br>
         <sub>
           <b>Diego Abner</b>
         </sub>
@@ -94,7 +94,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
      <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/156368206?v=4" width="100px height="100";" alt="SilviaNeves"/><br>
+        <img src="https://avatars.githubusercontent.com/u/156368206?v=4" width="100px height="100px";" alt="SilviaNeves"/><br>
         <sub>
           <b>Silvia Neves</b>
         </sub>
