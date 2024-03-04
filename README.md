@@ -114,6 +114,7 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 #### Colaboradores
 Leonardo Delgado Rodrigues
+Gilson Amorim de Matos
 
 ## 📝 Licença
 
